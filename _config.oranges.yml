@@ -1,0 +1,85 @@
+
+favicon:
+  enable: true
+  icon: /images/favicon.png
+  touch_icon: /images/favicon.png
+
+
+avatar:
+  author_photo: /images/avatar.png
+  author_nickname: Oranges
+  path: /
+
+
+gtag:
+  enable: false
+  gtagkey: UA-xxxxxxx-x
+
+comments:
+  enable: true
+
+navbar:
+  -
+    name: Home
+    enable: true
+    path: /
+    key: home
+  -
+    name: Archives
+    enable: true
+    path: /archives/
+    key: archives
+  -
+    name: Categories
+    enable: false
+    path: /categories/
+    key: categories
+  -
+    name: Tags
+    enable: false
+    path: /tags/
+    key: tags
+  -
+    name: Friends
+    enable: false
+    path: /friends/
+    key: friends
+  -
+    name: About
+    enable: true
+    path: /about/
+    key: about
+
+catalog:
+  enable: true
+
+# 버튼 여부
+prevnext:
+  enable: true
+
+# 검색
+search:
+  enable: true
+  placeholder: 
+
+#컬러 변경
+colorSwitch:
+  enable: true
+
+#공유
+postShare:
+  enable: true
+
+#코드 스타일
+codeBlock:
+
+  style: 'normal'
+
+  copy:
+    enable: true
+
+mathjax:
+  enable: true
+
+
+themeColor: '#808080'
