@@ -73,7 +73,7 @@ postShare:
 #코드 스타일
 codeBlock:
 
-  style: 'normal'
+  style: 'mac-black'
 
   copy:
     enable: true

@@ -1,6 +1,5 @@
 ---
 layout: about
-title: index
 date: 2023-03-28 19:59:07
 tags:
 ---
