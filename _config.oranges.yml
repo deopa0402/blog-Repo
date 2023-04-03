@@ -1,13 +1,13 @@
 
 favicon:
   enable: true
-  icon: /images/favicon.png
-  touch_icon: /images/favicon.png
+  icon: /images/purple-heart_1f49c.png
+  touch_icon: /images/purple-heart_1f49c.png
 
 
 avatar:
   author_photo: /images/avatar.png
-  author_nickname: Oranges
+  author_nickname: deopa0402
   path: /
 
 
@@ -82,4 +82,4 @@ mathjax:
   enable: true
 
 
-themeColor: '#808080'
+themeColor: '#B841F5'
