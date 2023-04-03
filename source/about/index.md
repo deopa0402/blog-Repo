@@ -16,13 +16,8 @@ tags:
     "country": "KR",
   },
   "skills": {
+    "Front": ["Undefined"],
     "backend": ["NULL"],
-  },
-  "works": {
-    "company": NULL,
-    "term": NULL,
-    "description": NULL,
-    "stack": NULL
   }
 }
 ```
