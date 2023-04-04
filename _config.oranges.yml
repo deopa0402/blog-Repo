@@ -1,15 +1,12 @@
-
 favicon:
   enable: true
   icon: /images/purple-heart_1f49c.png
   touch_icon: /images/purple-heart_1f49c.png
 
-
 avatar:
-  author_photo: /images/transparent.png
+  author_photo: /images/icon-heart.png
   author_nickname: deopa0402
   path: /
-
 
 gtag:
   enable: false
@@ -19,33 +16,27 @@ comments:
   enable: true
 
 navbar:
-  -
-    name: Home
+  - name: Home
     enable: true
     path: /
     key: home
-  -
-    name: Archives
+  - name: Archives
     enable: true
     path: /archives/
     key: archives
-  -
-    name: Categories
+  - name: Categories
     enable: false
     path: /categories/
     key: categories
-  -
-    name: Tags
+  - name: Tags
     enable: false
     path: /tags/
     key: tags
-  -
-    name: Friends
+  - name: Friends
     enable: false
     path: /friends/
     key: friends
-  -
-    name: About
+  - name: About
     enable: true
     path: /about/
     key: about
@@ -60,7 +51,7 @@ prevnext:
 # 검색
 search:
   enable: true
-  placeholder: 
+  placeholder:
 
 #컬러 변경
 colorSwitch:
@@ -72,7 +63,6 @@ postShare:
 
 #코드 스타일
 codeBlock:
-
   style: 'mac-black'
 
   copy:
@@ -80,6 +70,5 @@ codeBlock:
 
 mathjax:
   enable: true
-
 
 themeColor: '#B841F5'
