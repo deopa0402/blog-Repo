@@ -19,9 +19,9 @@ navbar:
   - name: Home
     enable: true
     path: /
-    key: home
+    key: about
   - name: Archives
-    enable: true
+    enable: false
     path: /archives/
     key: archives
   - name: Categories
@@ -63,7 +63,7 @@ postShare:
 
 #코드 스타일
 codeBlock:
-  style: 'mac-black'
+  style: "mac-black"
 
   copy:
     enable: true
@@ -71,4 +71,4 @@ codeBlock:
 mathjax:
   enable: true
 
-themeColor: '#B841F5'
+themeColor: "#B841F5"
