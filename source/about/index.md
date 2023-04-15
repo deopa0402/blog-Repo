@@ -57,9 +57,11 @@ tags:
   - 실전형 리액트 Hooks 10개
     - React, useEffect, useState, NPM 을 이용한 강의 (수강중)
 
-[따릉이 빅데이터 분석 시각화](https://colab.research.google.com/drive/1m-On5XX1-JEBr0hAn-AVNhNcONBDvKdL?usp=sharing)
+## 파이썬을 활용한 빅데이터 분석
 
-```json
+- [빅데이터 분석 시각화](https://colab.research.google.com/drive/1m-On5XX1-JEBr0hAn-AVNhNcONBDvKdL?usp=sharing)
+
+<!-- ```json
 {
   "profile": {
     "name": "김재민",
@@ -76,6 +78,11 @@ tags:
   "school" {
     "course":["Python, JAVA, C,structure,big data analysis"]
 
-  }
 }
+}
+
+```-->
+
+```
+
 ```
